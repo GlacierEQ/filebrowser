@@ -29,7 +29,7 @@
     "filesize": "^10.1.1",
     "js-base64": "^3.7.7",
     "jwt-decode": "^4.0.0",
-    "lodash-es": "^4.17.21",
+    "lodash-es": "^4.17.23",
     "marked": "^15.0.6",
     "material-icons": "^1.13.14",
     "normalize.css": "^8.0.1",
@@ -71,7 +71,7 @@
     "postcss": "^8.5.6",
     "prettier": "^3.6.2",
     "terser": "^5.43.1",
-    "vite": "^6.1.6",
+    "vite": "^6.4.1",
     "vite-plugin-compression2": "^1.0.0",
     "vue-tsc": "^2.2.0"
   },
